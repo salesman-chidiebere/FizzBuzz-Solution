@@ -1,0 +1,12 @@
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.xml
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.vbprojAssemblyReference.cache
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Form1.resources
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Resources.resources
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.vbproj.GenerateResource.cache
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.vbproj.CoreCompileInputs.cache
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.xml
+C:\Users\Cedeh\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
